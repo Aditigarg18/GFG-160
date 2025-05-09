@@ -9,7 +9,7 @@
 
 3.[Search in a row-wise sorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-row-wise-sorted-matrix)
 
-4. [Search in a Row-Column sorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix17201720)
+4.[Search in a Row-Column sorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix17201720)
   
 5.[Search in a sorted Matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix-1587115621)
 </details>
