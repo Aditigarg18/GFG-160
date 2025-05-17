@@ -16,5 +16,5 @@
 <details>
   <summary><strong>Sorting</strong></summary>
   
-1.[sort 0,1,2]([https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/spirally-traversing-a-matrix-1587115621])
+1.[sort 0,1,2](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/spirally-traversing-a-matrix-1587115621)
 
