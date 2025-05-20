@@ -19,4 +19,12 @@ class Solution {
             j--;
         }
     }
-}
+}int l=0,r=a.size()-1;
+   while(l<r){
+    int temp=a.get(l);
+    a.set(l,a.get(r));
+    a.set(r,temp);
+    l++;
+    r--;
+   }
+   return a;
